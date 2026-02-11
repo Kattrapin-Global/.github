@@ -22,4 +22,5 @@ We are committed to a local-first, spec-driven development philosophy:
 ## 📍 Global Presence
 With our primary R&D and IT team based in India, Kattrapin Global is bridging the gap between traditional engineering and the future of AI-driven automation.
 
-🌐 Visit [Kattrapin.com](https://kattrapin.com) | 📧 [Contact Us](directors@kattrapin.com)
+🌐 Visit [Kattrapin.com](https://kattrapin.com) | 📧 [Contact Us](mailto:directors@kattrapin.com)
+
